@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #fde2e4;
+}
+.container{
+    background-color: #fff0f3;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.profile{
+    height: 120px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid white;
+    float: left;
+}
+.first{
+    float: left;
+    padding: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.secound{
+    float: right;
+    padding: 30px;
+}
+.secound p a{
+      text-decoration: none;
+      color: #11999e;
+      font-weight: bold;
+      
+}
+.secound p a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.clear{
+  clear: both;
+}
+hr{
+    border: 3px solid black;
+    
+    margin: 20px auto;
+    border-bottom: none;
+}
+.main-div{
+    margin-top: 30px;
+}
+.left{
+    float: left;
+    width: 30%;
+}
+.right{
+    float: right;
+    width: 70%;
+    text-align: justify;
+
+}
+.horijontal{
+    border: 2px solid black;
+    border-bottom: none;
+    margin: 20px auto;  
+}
+.left-h2{
+    float: left;
+    width: 300px;
+}
+.right-div{
+    
+    float: right;
+    width: 700px;
+    text-align: justify;   
+}
+.LeftH2{
+    width: 300px;
+    float: left;
+}
+.RightDiv{
+    width: 700px;
+    float: right;
+}
+
+.middle1{
+    float: left;
+    width: 350px;
+}
+.middle2{
+    float: right;
+    width: 350px;
+}
+.FinalLast {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+.FinalLast a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.FinalLast p{
+    color: white;
+    margin-top: 20px;
+}
+
+
+
